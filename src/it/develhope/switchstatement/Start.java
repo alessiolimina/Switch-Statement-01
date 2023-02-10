@@ -61,20 +61,13 @@ public class Start {
                     System.out.println("The number is ten");
                     break;
                 default:
-                    System.out.println("Cannot give you the name");
-            }
+                    System.out.println("Cannot give you the name");}
+
             System.out.println("----------------------------------");
-
-            /**
-            Adding a break statement to exit the infinite WHILE Loop
-             */
-
-            if (userNumber == 99) {System.out.println("Wait...program stopping...");
-                break;
 
             }
         }
     }
-}
+
 
 
