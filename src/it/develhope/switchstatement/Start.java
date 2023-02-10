@@ -69,7 +69,7 @@ public class Start {
             Adding a break statement to exit the infinite WHILE Loop
              */
 
-            if (userNumber == 99) {System.out.println("Stopping");
+            if (userNumber == 99) {System.out.println("Wait...program stopping...");
                 break;
 
             }
