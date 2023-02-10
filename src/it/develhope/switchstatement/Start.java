@@ -20,6 +20,7 @@ public class Start {
 
             /**
              * Declaring the variables
+             * userNumber is a number typed by the user
              */
 
             Scanner scanner = new Scanner(System.in);
