@@ -26,7 +26,7 @@ public class Start {
             int userNumber = scanner.nextInt();
 
             /**
-             * Using a SWITCH statement to verify the typed number
+             * Using a SWITCH statement to verify and print the typed number
              */
 
             switch (userNumber) {
